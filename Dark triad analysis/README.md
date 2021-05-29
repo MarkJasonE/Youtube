@@ -10,9 +10,9 @@ Analysis on the effects of dark triad attributes on number of sexual parnters
 
 # Libraries
 <ul>
-  <li>Pandas: For analysing and getting insights from datasets.</li>
-  <li>matplotlib: For creating graphs and plots.</li>
-  <li>seaborn: For enhancing the style of matplotlib plots.</li>
+  <li><code>Pandas</code>: For analysing and getting insights from datasets.</li>
+  <li><code>matplotlib</code>: For creating graphs and plots.</li>
+  <li><code>seaborn</code>: For enhancing the style of matplotlib plots.</li>
 </ul>
 
 # Sources
