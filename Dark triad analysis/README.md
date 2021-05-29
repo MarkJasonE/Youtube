@@ -2,6 +2,8 @@
 Analysis on the effects of dark triad attributes on number of sexual parnters
 
 # Dark Triad
+*Add image and description of the trinagle
+*Add description for each trait from dsm
 <ul>
   <li>Machiavellianism</li>
   <li>Narcissism</li>
@@ -9,6 +11,7 @@ Analysis on the effects of dark triad attributes on number of sexual parnters
 </ul>
 
 # Libraries
+*Perhaps make a table instead of a list
 <ul>
   <li><code>Pandas</code>: For analysing and getting insights from datasets.</li>
   <li><code>matplotlib</code>: For creating graphs and plots.</li>
@@ -24,5 +27,8 @@ https://data.mendeley.com/datasets/87vx6jfnrp/1
 
 dataset from online survey (Long) - 
 https://openpsychometrics.org/_rawdata/
+
+How to calculate the dark triad scores (from the creator of the questionnaire):
+https://www.midss.org/sites/default/files/d3.pdf
 
 # Conclusion
