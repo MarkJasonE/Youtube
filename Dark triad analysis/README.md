@@ -19,10 +19,10 @@ Analysis on the effects of dark triad attributes on number of sexual parnters
 Paper - 
 https://www.sciencedirect.com/science/article/abs/pii/S0191886920305328
 
-dataset (Short) - 
+dataset from paper (Short) - 
 https://data.mendeley.com/datasets/87vx6jfnrp/1
 
-dataset (Long) - 
+dataset from online survey (Long) - 
 https://openpsychometrics.org/_rawdata/
 
-#Conclusion
+# Conclusion
