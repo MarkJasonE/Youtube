@@ -28,7 +28,7 @@ https://data.mendeley.com/datasets/87vx6jfnrp/1
 dataset from online survey (Long) - 
 https://openpsychometrics.org/_rawdata/
 
-How to calculate the dark triad scores (from the creator of the questionnaire):
+How to calculate the dark triad scores (from one of the questionnaires creators):
 https://www.midss.org/sites/default/files/d3.pdf
 
 # Conclusion
