@@ -1,9 +1,10 @@
 # Objective
-Analysis on the effects of dark triad attributes on number of sexual parnters
+Analysis on the effects of dark triad attributes on number of sexual partners. Then, extrapoplate to a larger dataset
 
 # Dark Triad
 *Add image and description of the trinagle
 *Add description for each trait from dsm
+*Example - https://www.psytoolkit.org/survey-library/short-dark-triad.html
 <ul>
   <li>Machiavellianism</li>
   <li>Narcissism</li>
